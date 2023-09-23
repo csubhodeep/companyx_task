@@ -49,7 +49,7 @@ Note, in this step we intentionally install the dev dependencies because the pac
 5. Connect the jupyter kernel to the virtual environment:
 
 ```bash
-python3 -m ipykernel install --user --name=tui_task_venv
+python3 -m ipykernel install --user --name=companyx_task_venv
 ```
 
 If you already have the `venv` folder then you can execute step 2 and 5 directly.
