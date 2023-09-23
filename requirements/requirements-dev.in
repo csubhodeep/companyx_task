@@ -1,0 +1,7 @@
+-r ./requirements.txt
+plotly
+ipykernel
+jupyterlab
+pytest
+seaborn
+matplotlib

@@ -1,0 +1,7 @@
+-e ./src
+pandas
+pyarrow
+scipy
+numpy
+scikit-learn
+statsmodels
